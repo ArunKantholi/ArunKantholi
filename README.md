@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ArunKantholi
-- 👀 I’m interested in computational modeling
 - 💞️ I’m looking for Ph.D position
 - 
 
