@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ArunKantholi
-- 💞️ I’m looking for Ph.D position
-- 
+👋 Hi, I'm **Arun Kantholi** (@ArunKantholi).
 
-<!---
-ArunKantholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Ph.D. Candidate at Lodz University of Technology, Poland
+
+🔬 Interested in quantum chemistry, electronic structure theory, and excited-state properties.
+
+💻 Working with computational chemistry tools, scientific programming.
+
+🤝 Always open to research collaborations and scientific discussions.
